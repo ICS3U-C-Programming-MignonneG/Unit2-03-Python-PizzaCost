@@ -14,7 +14,7 @@ def main():
 
     # Process (Geometric Calculations)
     radius = diameter / 2
-    area = math.pi * (radius**2)
+    area = math.pi * (radius ** 2)
     perimeter = math.pi * diameter
 
     # Process (Cost Calculations)
